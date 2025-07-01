@@ -25,7 +25,7 @@ To create a space where people can build real-world friendships and communities 
 
 ## Core Values
 
-- **Openness**: Profiles are public by default to encourage discovery with optional private fiels
+- **Openness**: Profiles are public by default to encourage discovery with optional private fields
 - **Community First**: Users can create and moderate their own communities.
 - **Decentralization**: Authority and decisions are spread across users—not dictated top-down.
 - **Real Connection**: Designed to get people off the screen and into the world.
@@ -91,7 +91,9 @@ To create a space where people can build real-world friendships and communities 
 - Notifications
 - Trust scores or gamified systems
 
-## Communities - to build after MVP
+---
+
+## 🧭 Post-MVP Roadmap: Communities
 
 - Anyone can create a community
 - Types: Local, Identity-based, Interest-based, Cause-driven
