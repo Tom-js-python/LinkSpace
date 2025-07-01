@@ -19,6 +19,7 @@ node_modules/
 /_site
 
 # ignore OS generated files
+.DS_Store
 ehthumbs.db
 Thumbs.db
 
