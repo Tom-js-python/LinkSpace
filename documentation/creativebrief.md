@@ -27,7 +27,7 @@ To create a space where people can build real-world friendships and communities 
 
 - **Openness**: Profiles are public by default to encourage discovery with optional private fields
 - **Community First**: Users can create and moderate their own communities.
-- **Decentralization**: Authority and decisions are spread across users—not dictated top-down.
+- **Decentralization**: Authority and decisions are spread across users — not dictated top-down.
 - **Real Connection**: Designed to get people off the screen and into the world.
 - **Bridge Divides**: Encourages respectful cross-worldview conversations and shared understanding.
 
@@ -35,7 +35,7 @@ To create a space where people can build real-world friendships and communities 
 
 - Friendly, clean, and human-centered
 - Soft edges, inviting colors, low noise
-- Focus on faces, stories, and shared interests—not likes, status, or ads
+- Focus on faces, stories, and shared interests — not likes, status, or ads
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +80,7 @@ To create a space where people can build real-world friendships and communities 
 ### 5. Lightweight Interaction
 
 - Option to “wave” at or “express interest in” a user
-- MVP may link to external contact methods (email/social) or enable basic in-app message (Phase 2)
+- MVP will enable basic in-app message (Phase 2)
 
 ## ❌ Excluded from MVP
 
@@ -91,9 +91,7 @@ To create a space where people can build real-world friendships and communities 
 - Notifications
 - Trust scores or gamified systems
 
----
-
-## 🧭 Post-MVP Roadmap: Communities
+### 🧭 Post-MVP Roadmap: Communities
 
 - Anyone can create a community
 - Types: Local, Identity-based, Interest-based, Cause-driven
@@ -107,10 +105,10 @@ To create a space where people can build real-world friendships and communities 
   - Optional moderators (assigned by creator or voted by members)
   - Voting available for posts/events if enabled by community
 
-### Optional
+#### Optional
 
-Community creators can initiate votes on decisions (e.g., “Should we have weekly meetups?”)
-Registered members can request a vote (e.g., to promote an event or idea)
+Community creators can initiate votes on decisions (e.g., “Should we have weekly meetups?”).
+Registered members can request a vote (e.g., to promote an event or idea).
 
 ## 🧪 Validation Goals
 
