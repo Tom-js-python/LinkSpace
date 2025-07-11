@@ -57,7 +57,6 @@ To create a space where people can build real-world friendships and communities 
 - Profile Photo (optional)
 - About Me (freeform text)
 - Interests (tag-based system)
-- “My Thoughts On...” (optional prompts)
 
 ### 3. Interest Selection (Hybrid System)
 
@@ -109,6 +108,16 @@ To create a space where people can build real-world friendships and communities 
 
 Community creators can initiate votes on decisions (e.g., “Should we have weekly meetups?”).
 Registered members can request a vote (e.g., to promote an event or idea).
+
+#### 🛣️ Roadmap Idea: Optional Profile Prompts
+
+- Users can optionally respond to writing prompts, e.g.
+  - A book that changed my life...
+  - Something I care deeply about is...
+  - My favourite way to spend a Sunday is...
+  - If I could master any skill...
+- Prompts are curated and designed to promote thoughtful, constructive self-expression
+- This feature may require moderation or flagging tools before public launch
 
 ## 🧪 Validation Goals
 
