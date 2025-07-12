@@ -79,7 +79,7 @@ To create a space where people can build real-world friendships and communities 
 ### 5. Lightweight Interaction
 
 - Option to “wave” at or “express interest in” a user
-- MVP will enable basic in-app message (Phase 2)
+- MVP will enable basic in-app message, as in sending a message to another user
 
 ## ❌ Excluded from MVP
 
