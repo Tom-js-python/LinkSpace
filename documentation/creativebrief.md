@@ -137,16 +137,6 @@ Registered members can request a vote (e.g., to promote an event or idea).
 - Minimalist layout focused on people and text
 - Tailwind CSS used for consistent, responsive design
 
-## 🗓️ MVP Timeline (Suggested)
-
-| Phase | Timeline | Focus Area                             |
-| ----- | -------- | -------------------------------------- |
-| 1     | Week 1–2 | Auth + basic profile creation          |
-| 2     | Week 3–4 | Interest tagging system + autocomplete |
-| 3     | Week 5–6 | User search, browse, profile viewing   |
-| 4     | Week 7+  | Light-touch interaction features       |
-| 5     | Ongoing  | Feedback, polish, testing              |
-
 ## 📎 Notes
 
 - Suggested interests can be stored with `approved: false` until reviewed
